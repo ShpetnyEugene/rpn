@@ -2,7 +2,7 @@
 
 | **`Status`** | 
 |---|
-| [![Build Status](https://travis-ci.org/ShpetnyEugene/rpn.svg)](https://ShpetnyEugene/rpn)|
+| [![Build Status](https://travis-ci.org/ShpetnyEugene/rpn.svg)](https://https://travis-ci.org/ShpetnyEugene/rpn)|
 
 
 This project is designed to study RPN (reverse Polish notation). Created for educational purposes.
