@@ -1,4 +1,4 @@
-package main.java;
+package org.rpn;
 
 public class Calculator {
 

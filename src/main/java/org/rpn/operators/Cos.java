@@ -1,4 +1,4 @@
-package main.java.operators;
+package org.rpn.operators;
 
 public class Cos extends UnaryOperator {
 

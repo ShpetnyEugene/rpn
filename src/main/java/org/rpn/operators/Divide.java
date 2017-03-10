@@ -1,6 +1,6 @@
-package main.java.operators;
+package org.rpn.operators;
 
-public class Multiply  extends BinaryOperator {
+public class Divide extends BinaryOperator {
 
     @Override
     public double calculate(double firstValue, double secondValue) {

@@ -1,4 +1,4 @@
-package main.java;
+package org.rpn;
 
 import java.io.*;
 import java.util.LinkedList;

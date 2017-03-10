@@ -1,4 +1,4 @@
-package main.java.operators;
+package org.rpn.operators;
 
 public abstract class BinaryOperator {
     private int priority;
