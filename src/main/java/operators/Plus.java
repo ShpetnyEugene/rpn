@@ -1,4 +1,4 @@
-package operators;
+package main.java.operators;
 
 public class Plus extends BinaryOperator {
 

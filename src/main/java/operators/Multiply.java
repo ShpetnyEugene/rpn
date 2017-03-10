@@ -1,7 +1,6 @@
-package operators;
+package main.java.operators;
 
 public class Multiply  extends BinaryOperator {
-
 
     @Override
     public double calculate(double firstValue, double secondValue) {

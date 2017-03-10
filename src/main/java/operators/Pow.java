@@ -1,5 +1,4 @@
-package operators;
-
+package main.java.operators;
 
 public class Pow extends BinaryOperator {
 
